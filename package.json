@@ -1,0 +1,17 @@
+{
+  "name": "CordovaSwiftPlugin",
+  "version": "0.0.1",
+  "description": "A Cordova-Swift plugin template.",
+  "cordova": {
+    "id": "com.swift.cordova.testapp",
+    "platforms": [
+      "ios"
+    ]
+  },
+  "keywords": [
+    "ecosystem:cordova",
+    "cordova-ios"
+  ],
+  "author": "Bengejd",
+  "license": "MIT"
+}
